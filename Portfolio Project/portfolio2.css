@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+header{
+    background-color: #F6F6F6
+    padding: 10px;
+    width: 980px;
+    display: inline-block;
+}
+
+header h1{
+    display: inline-block;
+    padding-left: 25px;
+}
+header h2{
+    display: inline-block;
+    margin-left: 400px;
+}
+
+#main{
+    width: 950px;
+    background-color: #36246a;
+    padding: 15px;
+}
+
+#main img{
+    width: 430px;
+    height: auto;
+    margin-left: 12px;
+    border: 5px solid silver;
+}
+
+#about{
+    width: 470px;
+    height: 293px;
+    margin-left: 12px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #fdfdfd;
+}
+
+#about h2{
+    color: white;
+    background-color: #878593;
+    padding: 10px;
+}
+
+#about p{
+    padding: 10px;
+}
+
+#about a{
+    padding: 10px;
+    color: black;
+}
+
+.boxes{
+    width: 290px;
+    /* height: 293px; */
+    margin: 12px;
+    display: inline-block;
+    background-color: #fdfdfd; 
+    vertical-align: top;
+}
+
+.boxes h2{
+    color: white;
+    background-color: #878593;
+    padding: 10px;
+}
+
+.boxes h3{
+    color: white;
+    background-color: #878593;
+    padding: 10px;
+}
+#main .boxes img{
+    width: 268px;
+    height: auto;
+    border: none;
+    margin-right: 12px;
+}
+.top_content{
+    width: 270px;
+    height: 126px;
+}
+.bottom_content{
+    width: 
+}
+.boxes p{
+    padding: 10px;
+    margin-bottom: 30px;
+    height: 126px;
+    background-color: #fdfdfd;
+}
+
+#main .tech-images img{
+    width: 42px;
+    margin: 2px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #F6F6F6;
+}
+
+.tech-images li{
+  list-style-type: none;
+  /* margin: 0px; */
+  /* padding: 0px; */
+  display: inline-block;
+}
+
+button{
+    height: 25px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    font-weight: 900px;
+    margin: 10px 100px;
+}
+footer{
+    background-color: #F6F6F6
+    padding: 10px;
+    width: 980px;
+}
+footer h4{
+    text-align: center; 
+}
+footer ul{
+    text-align: center;
+    margin-top: 10px;
+}
+footer img{
+    width: 15px;
+}
+footer li{
+    display: inline-block;
+}
